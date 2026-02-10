@@ -1,4 +1,4 @@
-# 📅 Day 1 – Python Basics & Control Flow
+# Day 1 – Python Basics & Control Flow
 
 ## Topics Covered
 

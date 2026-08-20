@@ -1,17 +1,10 @@
-# Programming From Scratch
+# 💻 Programming-From-Scratch
 
-This repository documents my journey of learning programming **from scratch**, day by day.
-
-I’m starting with **Python and DSA** and will gradually move into more advanced topics.  
-This repo is both my **learning log** and **practice workspace**.
+A daily log of my journey learning programming, Python, Data Structures, and Algorithms from scratch.
 
 ---
 
-## 📌 Why this repo?
+## 📁 Repository Index
 
-- To stay consistent and disciplined
-- To track my daily progress
-- To build strong fundamentals in programming & DSA
-- To create a public learning journey I can look back at
-
----
+- 📄 [`python-dsa-algorithms.md`](python-dsa-algorithms.md) — Sorting algorithms (Bubble Sort), complexity analysis, and problem-solving patterns.
+- 📄 [`LICENSE`](LICENSE) — Open source MIT License.

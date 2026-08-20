@@ -1,10 +1,10 @@
-# 🐍 Python Data Structures & Algorithms (DSA) Notes
+# Python Data Structures and Algorithms (DSA) Notes
 
 Implementations and complexity notes for core sorting algorithms and data structure practice problems in Python.
 
 ---
 
-## 🔢 1. Sorting Algorithms
+## 1. Sorting Algorithms
 
 ### Bubble Sort Implementation
 ```python
@@ -25,12 +25,12 @@ sample_data = [64, 34, 25, 12, 22, 11, 90]
 print("Sorted Array:", bubble_sort(sample_data))
 ```
 
-* **Time Complexity**: $\mathcal{O}(N^2)$ worst-case, $\mathcal{O}(N)$ best-case (already sorted).
-* **Space Complexity**: $\mathcal{O}(1)$ in-place auxiliary space.
+- **Time Complexity**: $\mathcal{O}(N^2)$ worst-case, $\mathcal{O}(N)$ best-case (already sorted).
+- **Space Complexity**: $\mathcal{O}(1)$ in-place auxiliary space.
 
 ---
 
-## 🧮 2. Problem-Solving Patterns
+## 2. Problem-Solving Patterns
 
-- **Two Pointers Technique**: Used for searching pairs in sorted arrays or string palindromes.
-- **Sliding Window**: Used for subarray/substring target optimization.
+- **Two Pointers Technique**: Used for searching pairs in sorted arrays or checking string palindromes.
+- **Sliding Window**: Used for contiguous subarray or substring target optimization.
